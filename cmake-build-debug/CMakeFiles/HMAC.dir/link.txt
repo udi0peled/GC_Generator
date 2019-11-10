@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/HMAC.dir/main.c.o CMakeFiles/HMAC.dir/common.c.o  -o HMAC 
